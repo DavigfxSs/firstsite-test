@@ -220,11 +220,6 @@ footer {
     color: white;
 }
 
-li:hover {
-    background-color: #002e08;
-    
-}
-
 .bottons {
     display: flex;
     padding: 10px;
